@@ -7,7 +7,7 @@
 	>
 <channel>
 	<title>
-	Comments for Football Word	</title>
+	Bình luận cho Football Word	</title>
 	<atom:link href="http://localhost/myproject/wordpress/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>https://hoanganh732.github.io/footballword1</link>
 	<description>Trang web cập nhật thông tin về bóng đá nhanh nhất</description>
@@ -19,7 +19,7 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
 		<title>
-		Comment on Chào tất cả mọi người! by Một người bình luận WordPress		</title>
+		Phản hồi cho Chào tất cả mọi người! bởi Một người bình luận WordPress		</title>
 		<link>https://hoanganh732.github.io/footballword1/khong-phan-loai/chao-moi-nguoi/#comment-6</link>
 
 		<dc:creator><![CDATA[Một người bình luận WordPress]]></dc:creator>

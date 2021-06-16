@@ -13,7 +13,7 @@
 	<link>https://hoanganh732.github.io/footballword1</link>
 	<description>Trang web cập nhật thông tin về bóng đá nhanh nhất</description>
 	<lastBuildDate>Fri, 04 Jun 2021 13:03:34 +0000</lastBuildDate>
-	<language>en-US</language>
+	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
@@ -46,7 +46,7 @@
 
 
 
-<figure class="wp-block-image size-large is-style-default"><img loading="lazy" width="720" height="720" src="https://hoanganh732.github.io/footballword1/wp-content/uploads/2021/05/5cab71d79ca878f621b9.jpg" alt="" class="wp-image-25" srcset="https://hoanganh732.github.io/footballword1/wp-content/uploads/2021/05/5cab71d79ca878f621b9.jpg 720w, https://hoanganh732.github.io/footballword1/wp-content/uploads/2021/05/5cab71d79ca878f621b9-300x300.jpg 300w, https://hoanganh732.github.io/footballword1/wp-content/uploads/2021/05/5cab71d79ca878f621b9-150x150.jpg 150w" sizes="(max-width: 720px) 100vw, 720px" /></figure>
+<figure class="wp-block-image size-large is-style-default"><img loading="lazy" width="720" height="720" src="https://hoanganh732.github.io/footballword1/wp-content/uploads/2021/05/5cab71d79ca878f621b9.jpg" alt="" class="wp-image-25" srcset="https://hoanganh732.github.io/footballword1/wp-content/uploads/2021/05/5cab71d79ca878f621b9.jpg 720w, https://hoanganh732.github.io/footballword1/wp-content/uploads/2021/05/5cab71d79ca878f621b9-300x300.jpg 300w, https://hoanganh732.github.io/footballword1/wp-content/uploads/2021/05/5cab71d79ca878f621b9-100x100.jpg 100w, https://hoanganh732.github.io/footballword1/wp-content/uploads/2021/05/5cab71d79ca878f621b9-600x600.jpg 600w, https://hoanganh732.github.io/footballword1/wp-content/uploads/2021/05/5cab71d79ca878f621b9-150x150.jpg 150w" sizes="(max-width: 720px) 100vw, 720px" /></figure>
 
 
 
@@ -54,7 +54,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" width="600" height="700" src="https://hoanganh732.github.io/footballword1/wp-content/uploads/2021/05/dongho03-Copy.jpg" alt="" class="wp-image-23" srcset="https://hoanganh732.github.io/footballword1/wp-content/uploads/2021/05/dongho03-Copy.jpg 600w, https://hoanganh732.github.io/footballword1/wp-content/uploads/2021/05/dongho03-Copy-257x300.jpg 257w" sizes="(max-width: 600px) 100vw, 600px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="600" height="700" src="https://hoanganh732.github.io/footballword1/wp-content/uploads/2021/05/dongho03-Copy.jpg" alt="" class="wp-image-23" srcset="https://hoanganh732.github.io/footballword1/wp-content/uploads/2021/05/dongho03-Copy.jpg 600w, https://hoanganh732.github.io/footballword1/wp-content/uploads/2021/05/dongho03-Copy-416x485.jpg 416w, https://hoanganh732.github.io/footballword1/wp-content/uploads/2021/05/dongho03-Copy-257x300.jpg 257w" sizes="(max-width: 600px) 100vw, 600px" /></figure>
 
 
 
@@ -70,11 +70,11 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" width="600" height="700" src="https://hoanganh732.github.io/footballword1/wp-content/uploads/2021/05/dongho01-Copy.jpg" alt="" class="wp-image-21" srcset="https://hoanganh732.github.io/footballword1/wp-content/uploads/2021/05/dongho01-Copy.jpg 600w, https://hoanganh732.github.io/footballword1/wp-content/uploads/2021/05/dongho01-Copy-257x300.jpg 257w" sizes="(max-width: 600px) 100vw, 600px" /><figcaption>Tìm trong file php.ini và thay các giá trị của:<br><strong>upload_max_filesize</strong> : 40M tức là 40MB <br><strong>post_max_size</strong> : 40M <br><strong>max_execution_tim</strong>: giá trị này là thời gian xử lý, hay thời gian upload, vì dung lượng lớn nên phải tăng thời gian tối đa cho phép xử lý, đơn vị là giây. Ví dụ 5 phút. <br><strong>2.Cách 2 : Theme function </strong><br>Chỉ nên thực hiện cách 2 sau khi không thực hiện được cách 1, <span class="has-inline-color has-bright-red-color"><em>hay không có quyền chỉnh sửa file php.ini.</em></span><br> <strong>Appearance &gt; Editor</strong></figcaption></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="600" height="700" src="https://hoanganh732.github.io/footballword1/wp-content/uploads/2021/05/dongho01-Copy.jpg" alt="" class="wp-image-21" srcset="https://hoanganh732.github.io/footballword1/wp-content/uploads/2021/05/dongho01-Copy.jpg 600w, https://hoanganh732.github.io/footballword1/wp-content/uploads/2021/05/dongho01-Copy-416x485.jpg 416w, https://hoanganh732.github.io/footballword1/wp-content/uploads/2021/05/dongho01-Copy-257x300.jpg 257w" sizes="(max-width: 600px) 100vw, 600px" /><figcaption>Tìm trong file php.ini và thay các giá trị của:<br><strong>upload_max_filesize</strong> : 40M tức là 40MB <br><strong>post_max_size</strong> : 40M <br><strong>max_execution_tim</strong>: giá trị này là thời gian xử lý, hay thời gian upload, vì dung lượng lớn nên phải tăng thời gian tối đa cho phép xử lý, đơn vị là giây. Ví dụ 5 phút. <br><strong>2.Cách 2 : Theme function </strong><br>Chỉ nên thực hiện cách 2 sau khi không thực hiện được cách 1, <span class="has-inline-color has-bright-red-color"><em>hay không có quyền chỉnh sửa file php.ini.</em></span><br> <strong>Appearance &gt; Editor</strong></figcaption></figure>
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" width="600" height="700" src="https://hoanganh732.github.io/footballword1/wp-content/uploads/2021/05/dongho04-Copy.jpg" alt="" class="wp-image-16" srcset="https://hoanganh732.github.io/footballword1/wp-content/uploads/2021/05/dongho04-Copy.jpg 600w, https://hoanganh732.github.io/footballword1/wp-content/uploads/2021/05/dongho04-Copy-257x300.jpg 257w" sizes="(max-width: 600px) 100vw, 600px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="600" height="700" src="https://hoanganh732.github.io/footballword1/wp-content/uploads/2021/05/dongho04-Copy.jpg" alt="" class="wp-image-16" srcset="https://hoanganh732.github.io/footballword1/wp-content/uploads/2021/05/dongho04-Copy.jpg 600w, https://hoanganh732.github.io/footballword1/wp-content/uploads/2021/05/dongho04-Copy-416x485.jpg 416w, https://hoanganh732.github.io/footballword1/wp-content/uploads/2021/05/dongho04-Copy-257x300.jpg 257w" sizes="(max-width: 600px) 100vw, 600px" /></figure>
 
 
 
@@ -96,7 +96,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" width="600" height="700" src="https://hoanganh732.github.io/footballword1/wp-content/uploads/2021/05/dongho05.jpg" alt="" class="wp-image-10" srcset="https://hoanganh732.github.io/footballword1/wp-content/uploads/2021/05/dongho05.jpg 600w, https://hoanganh732.github.io/footballword1/wp-content/uploads/2021/05/dongho05-257x300.jpg 257w" sizes="(max-width: 600px) 100vw, 600px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="600" height="700" src="https://hoanganh732.github.io/footballword1/wp-content/uploads/2021/05/dongho05.jpg" alt="" class="wp-image-10" srcset="https://hoanganh732.github.io/footballword1/wp-content/uploads/2021/05/dongho05.jpg 600w, https://hoanganh732.github.io/footballword1/wp-content/uploads/2021/05/dongho05-416x485.jpg 416w, https://hoanganh732.github.io/footballword1/wp-content/uploads/2021/05/dongho05-257x300.jpg 257w" sizes="(max-width: 600px) 100vw, 600px" /></figure>
 
 
 
